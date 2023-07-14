@@ -53,3 +53,5 @@ contoh
 
 Program mengenai interaksi antara node pada folter NodesInteraction_BeginnerTutorial
 ![Screenshot from 2021-04-26 14-42-40 (1)](https://github.com/taz06/tugas-magang-iris/assets/81939053/aa3d77ae-138e-4c87-b967-85642ef2671e)
+
+Full folder : https://drive.google.com/drive/folders/1PP67thokWPia5tqfNioEz9OH4rUDBtIW?usp=sharing
